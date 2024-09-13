@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliopsn.netlify.app/](https://portfoliopsn.netlify.app/)
 
-- 💬 Ask me about **Web Site, Android App**
+- 💬 Ask me about **Web Devlopment, Android App Devlopment**
 
 - 📫 How to reach me **piyushsinghnegi1@gmail.com**
 
