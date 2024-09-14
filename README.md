@@ -1,7 +1,7 @@
 ![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJxYnc4dmV3eno3bjEyOHR3YXRoaXRjb2EzMGEwczA2cjhwejlleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJxYnc4dmV3eno3bjEyOHR3YXRoaXRjb2EzMGEwczA2cjhwejlleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushnegi04&label=Profile%20views&color=0e75b6&style=flat" alt="piyushnegi04" /> </p>
 
